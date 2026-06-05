@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "oil-gas-scheduling",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-06-05",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+//   "assets": {
+//     "binding": "ASSETS",
+//     "directory": "./public"
+//   },
+  "observability": {
+    "enabled": true
+  },
+  "upload_source_maps": true
+}
