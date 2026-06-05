@@ -141,7 +141,7 @@ app.get('/', (c) => {
           </div>
 
           <!-- NEW: Algorithm Comparison Page -->
-          <div onclick="window.location.href='/comparison'" class="card cursor-pointer bg-gradient-to-br from-indigo-900 to-slate-800 p-8 rounded-3xl border border-indigo-700">
+          <div onclick="window.location.href='/comparison.html'" class="card cursor-pointer bg-gradient-to-br from-indigo-900 to-slate-800 p-8 rounded-3xl border border-indigo-700">
             <div class="flex items-center gap-4 mb-6">
               <i class="fas fa-chart-line text-4xl text-indigo-400"></i>
               <div>
